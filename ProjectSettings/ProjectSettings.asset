@@ -925,11 +925,11 @@ PlayerSettings:
   captureStartupLogs: {}
   activeInputHandler: 1
   windowsGamepadBackendHint: 0
-  cloudProjectId: 7a0d0fc6-9887-41da-ba09-2a3d8a9172bd
+  cloudProjectId: b42b9b38-a130-4426-b385-c881a9a42741
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: yeah 2026-01-04_23-24-14
-  organizationId: lucimrngztar
+  projectName: Zombie Apocalypse 2026-01-05_14-12-39
+  organizationId: akmmatic
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   hmiLoadingImage: {fileID: 0}
