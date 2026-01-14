@@ -1,0 +1,11 @@
+{
+    "asset": "2950267244827a5419cbb946b3d09867",
+    "fileName": "019bb6ec-c3d3-72db-96b2-9bf5ce9aa840.pose.json",
+    "prompt": "walk for 2 seconds and jump",
+    "negativePrompt": "",
+    "model": "9e46c009-67d8-4254-a3a0-32e3168247ee",
+    "modelName": "Text to Motion",
+    "customSeed": 485768891,
+    "w3CTraceId": "d41c9af9663b7e37993e4bda7ebe8a9b",
+    "isTrimmed": false
+}
